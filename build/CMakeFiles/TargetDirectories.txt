@@ -1,0 +1,7 @@
+/home/user/CourseProject/build/CMakeFiles/MySimulation.dir
+/home/user/CourseProject/build/CMakeFiles/edit_cache.dir
+/home/user/CourseProject/build/CMakeFiles/rebuild_cache.dir
+/home/user/CourseProject/build/CMakeFiles/list_install_components.dir
+/home/user/CourseProject/build/CMakeFiles/install.dir
+/home/user/CourseProject/build/CMakeFiles/install/local.dir
+/home/user/CourseProject/build/CMakeFiles/install/strip.dir
